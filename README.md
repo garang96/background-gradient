@@ -2,7 +2,7 @@
 
 I did the background gradient project from the odin project and this was the end product.
 
-![screenshot](./images/screencapture-127-0-0-1-5500-index-html-2021-03-06-06_21_08.png)
+![screenshot](./images/screencapture-127-0-0-1-5500-index-html-2021-03-06-06_46_29.png)
 
 The project involves cloning apple.com page. I tried to mimic the background gradient of the page and in the process I learned how to go about background gradients.
 
