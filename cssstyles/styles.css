@@ -56,11 +56,6 @@ ul li {
   background: white;
 }
 
-.fa-search {
-  color: white;
-  font-size: 16px;
-}
-
 .iphone-img {
   width: 24.78%;
   height: 200px;
@@ -140,4 +135,8 @@ ul li {
   margin-top: 40px;
   font-size: 20px;
   color: rgba(255, 255, 255, 0.692);
+}
+
+body {
+  overflow: scroll;
 }
